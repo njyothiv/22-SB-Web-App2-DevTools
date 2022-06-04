@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>22-SB-Web-App2-DevTools</name>
-	<description>Demo project for Spring Boot testing git feature branch check in concept</description>
+	<description>Demo project for Spring Boot testing git feature branch check in concept testing jenkins automated build </description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
